@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+fpdf2  # Asumiendo que finalmente migraste a fpdf2 para la generación de PDF
+plotly
+openpyxl # Para la exportación a Excel con Pandas
